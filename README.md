@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/AWS-34A853?style=for-the-badge">
   <img src="https://img.shields.io/badge/Git-0e0f37?style=for-the-badge">
   <img src="https://img.shields.io/badge/MySQL-34A853?style=for-the-badge">
-    <a href="https://www.figma.com/file/x0VtIVK7CA5iKyFjgD5ybs/나누기-UI?type=design&mode=design&t=m4bevGLHQHWBrlXO-0" target="_blank"><img src="https://img.shields.io/badge/UI-0e0f37?style=for-the-badge&logo=riseup&logoColor=white">  </a>
   </div>
   </div>
   <h2> 🏡 프로젝트 개요 </h2>
